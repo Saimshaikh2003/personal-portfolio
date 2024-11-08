@@ -1,4 +1,4 @@
- gi"use client";
+ "use client";
 
 import About from "./Components/About";
 import Contact from "./Components/Contact";
@@ -9,7 +9,7 @@ import Skills from "./Components/Skills";
 import AOS from "aos"
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-import Aos from "aos";
+import AOS from "aos";
 
 
 
