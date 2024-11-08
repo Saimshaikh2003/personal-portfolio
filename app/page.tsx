@@ -1,4 +1,4 @@
-"use client";
+ gi"use client";
 
 import About from "./Components/About";
 import Contact from "./Components/Contact";
