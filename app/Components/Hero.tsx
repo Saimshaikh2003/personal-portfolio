@@ -10,8 +10,8 @@ const Hero =  ()  => {
       <Navbar /> 
       <div className='container grid  lg:grid-cols-2 h-[calc(100vh-600px)]'>
         <div className='hidden lg:block'></div>
-        <div className='text-[80px] sm:text-[80px] mt-16rem  font-bold leading-tight flex justify-center items-center'>
-          <div>
+        <div className='text-[120px] sm:text-[120px] mt-1 font-bold leading-tight flex justify-center items-center'>
+          <div className="mt-56">
             <p data-aos="zoom-in-down">I AM</p>
             <p data-aos="zoom-in-down">SAIM</p>
             <p data-aos="zoom-in-down">SHAIKH</p>

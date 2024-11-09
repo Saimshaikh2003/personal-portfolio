@@ -10,7 +10,7 @@ const  toggleMenu = ()  =>{
 }
 
     return(
-        <div className="container pt-8">
+        <div className="container pt-8 ">
             <div className="flex justify-between items-center">
                 <div className="text-xl font-medium">SAIM SHAIKH</div>
 
@@ -37,7 +37,7 @@ const  toggleMenu = ()  =>{
                  </div>
 
                  {isMenuOpen &&(
-                    <ul className="flex flex-col gap-4 mt-4 md:hidden">
+                    <ul className="flex flex-col gap-4 mt-2 md:hidden">
                         <li className="menuLink">
                              <a href="#hero" onClick={toggleMenu}>Home</a>
                         </li>
